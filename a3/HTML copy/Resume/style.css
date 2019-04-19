@@ -1,0 +1,17 @@
+
+.Website{
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+}
+
+.Name{
+	font-family: 'Amatic SC', cursive;
+	font-size:32px;
+
+}
+
+h1:hover{
+	background-color: red;
+	width:300px;
+	height:auto;
+}
